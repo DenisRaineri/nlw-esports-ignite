@@ -1,6 +1,8 @@
 ![Wallpaper - 2560x1080](https://user-images.githubusercontent.com/52717632/189574623-ec52494c-023e-4d05-97c9-b5ddfa0b101b.jpg)
 # Projeto eSports - Trilha ReactJs/ React Native Ignite :rocket:
 
+![Wallpaper - 2560x1080](https://media.discordapp.net/attachments/1013905266519056384/1020897638503166012/unknown.png?width=1024&height=580)
+
 ## Tecnologias
 
 - [Typescript](https://www.typescriptlang.org/)
